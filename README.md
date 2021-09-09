@@ -30,8 +30,8 @@ I'm a 20 years old Computer Science student at Centro Federal de Educação Cels
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg width='45' height='45'>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg width='45' height='45'>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg width='45' height='45'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg width='45' height='45'>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg width='45' height='45'>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg width='45' height='45'>
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg width='45' height='45'>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg width='45' height='45'>
 </div>
