@@ -1,6 +1,6 @@
-## Hello, i am Lucas !!! ##
+## Hello, welcome to my profile !!! ##
 
-I'm a 20 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil, and i'm studing for become a web developer, with focus on Back-End stack.
+I'm Lucas, i have 20 years old, i'm studying Computer Science at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ/Maracanã) at Rio de Janeiro - Brazil, and i'm currently peparing myself for become a web developer, with focus on Back-End development.
 
 :books: I have knowledge in NodeJs and ReactJs.
 
@@ -10,7 +10,9 @@ I'm a 20 years old Computer Science student at Centro Federal de Educação Cels
 ### My Stats ###
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfarolfi&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfarolfi&layout=compact&hide=jupyter%20Notebook,CSS&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfarolfi&show_icons=true&theme=react) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfarolfi&layout=compact&hide=jupyter%20Notebook,CSS&theme=radical)
 
 
 ### Projects Done ###
