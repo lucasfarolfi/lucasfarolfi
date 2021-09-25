@@ -15,7 +15,10 @@ I'm Lucas, i have 20 years old, i'm studying Computer Science at Centro Federal 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfarolfi&layout=compact&hide=jupyter%20Notebook,CSS&theme=radical)
 
 
-### Projects Done ###
+### Favorites Projects ###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasfarolfi&repo=gamenews&show_owner=true&theme=radical)](https://github.com/lucasfarolfi/gamenews)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsm-cefet-rj&repo=trabalho2021-1-grupo-7-psw&show_owner=true&theme=radical)](https://github.com/dsm-cefet-rj/trabalho2021-1-grupo-7-psw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WolfByte-CEFET-RJ&repo=Site_do_Ramo&show_owner=true&theme=radical)](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipe-junior&repo=projeto-ramo&show_owner=true&theme=radical)](https://github.com/felipe-junior/projeto-ramo)
 
 
