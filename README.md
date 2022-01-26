@@ -1,8 +1,9 @@
 ## Hello, welcome to my profile !!! ##
 
-I'm Lucas, i have 20 years old, i'm studying Computer Science at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ/Maracanã) at Rio de Janeiro - Brazil, and i'm currently peparing myself for become a web developer, with focus on Back-End development.
+I'm Lucas, i have 21 years old, i'm studying Computer Science at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ/Maracanã) at Rio de Janeiro - Brazil, 
+and currently I'm a full-stack developer, focusing on Back-End.
 
-:books: I have knowledge in NodeJs and ReactJs.
+:books: I have knowledge in Flask Restx, NodeJs and ReactJs.
 
 :rocket: I'm currenty working on [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo) and [Ingressos Hub](https://github.com/dsm-cefet-rj/trabalho2021-1-grupo-7-psw).
 
