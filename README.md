@@ -40,7 +40,7 @@ and currently I'm a Back-End developer.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width='45' height='45'/>
 </div>
 
-
+<!--
 ### Favorites Projects ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasfarolfi&repo=clean-architecture-challenge-go&show_owner=true&theme=radical)](https://github.com/lucasfarolfi/clean-architecture-challenge-go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasfarolfi&repo=gamenews&show_owner=true&theme=radical)](https://github.com/lucasfarolfi/gamenews)
@@ -49,3 +49,4 @@ and currently I'm a Back-End developer.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsm-cefet-rj&repo=trabalho2021-1-grupo-7-psw&show_owner=true&theme=radical)](https://github.com/dsm-cefet-rj/trabalho2021-1-grupo-7-psw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-OMA&repo=ena-map-server-back&show_owner=true&theme=radical)](https://github.com/Project-OMA/ena-map-server-back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-OMA&repo=ena-map-server-front&show_owner=true&theme=radical)](https://github.com/Project-OMA/ena-map-server-front)
+-- >
